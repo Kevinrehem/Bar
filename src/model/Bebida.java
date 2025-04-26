@@ -1,4 +1,5 @@
 package model;
 
-public class Bebida extends Produto{
+public abstract class Bebida extends Produto{
+
 }
