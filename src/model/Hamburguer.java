@@ -1,4 +1,4 @@
 package model;
 
-public class Hamburguer extends Produto{
+public class Hamburguer extends Comida{
 }
